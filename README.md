@@ -1,2 +1,2 @@
 # Barbearia_Alura
-A página da barbearia Alura, só isso mesmo
+<p> Página da Barbearia Alura completa.</p>
